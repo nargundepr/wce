@@ -1,4 +1,4 @@
-nclude <stdio.h>
+ihhgnclude <stdio.h>
 #include "mpi.h"
 #define N               10        /* number of rows and columns in matrix */
 
